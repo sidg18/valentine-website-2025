@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1                        // Volume level (0.0 to 1.0)
     }
 };
 
